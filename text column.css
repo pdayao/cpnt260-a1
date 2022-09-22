@@ -1,0 +1,19 @@
+/* Box model */
+body {
+  width: 100%;
+  max-width: 60ch;
+  margin: 6rem auto;
+}
+
+/* Font */
+
+h1, h2, h4 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+main{
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}  
+
